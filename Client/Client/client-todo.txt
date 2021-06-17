@@ -1,0 +1,5 @@
+-
+-
+-Server sends 128bit nonce // OK
+-Client receives 128-bit nonce from server // OK
+-client signs 128nonce by the decrypted RSA key, send it back // OK

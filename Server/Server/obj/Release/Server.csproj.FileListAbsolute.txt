@@ -1,0 +1,44 @@
+C:\Users\Ege\Documents\Visual Studio 2015\Projects\CS432 Project\Server\Server\bin\Release\Server.exe.config
+C:\Users\Ege\Documents\Visual Studio 2015\Projects\CS432 Project\Server\Server\bin\Release\Server.exe
+C:\Users\Ege\Documents\Visual Studio 2015\Projects\CS432 Project\Server\Server\bin\Release\Server.pdb
+C:\Users\Ege\Documents\Visual Studio 2015\Projects\CS432 Project\Server\Server\obj\Release\Server.Form1.resources
+C:\Users\Ege\Documents\Visual Studio 2015\Projects\CS432 Project\Server\Server\obj\Release\Server.Properties.Resources.resources
+C:\Users\Ege\Documents\Visual Studio 2015\Projects\CS432 Project\Server\Server\obj\Release\Server.csproj.GenerateResource.Cache
+C:\Users\Ege\Documents\Visual Studio 2015\Projects\CS432 Project\Server\Server\obj\Release\Server.exe
+C:\Users\Ege\Documents\Visual Studio 2015\Projects\CS432 Project\Server\Server\obj\Release\Server.pdb
+C:\Users\Efehan\Desktop\CS 432 Project\cs432Project\Server\Server\bin\Release\Server.exe.config
+C:\Users\Efehan\Desktop\CS 432 Project\cs432Project\Server\Server\obj\Release\Server.exe
+C:\Users\Efehan\Desktop\CS 432 Project\cs432Project\Server\Server\obj\Release\Server.pdb
+C:\Users\Efehan\Desktop\CS 432 Project\cs432Project\Server\Server\bin\Release\Server.exe
+C:\Users\Efehan\Desktop\CS 432 Project\cs432Project\Server\Server\bin\Release\Server.pdb
+C:\Users\Efehan\Desktop\CS 432 Project\cs432Project\Server\Server\obj\Release\Server.csprojResolveAssemblyReference.cache
+C:\Users\Efehan\Desktop\CS 432 Project\cs432Project\Server\Server\obj\Release\Server.Form1.resources
+C:\Users\Efehan\Desktop\CS 432 Project\cs432Project\Server\Server\obj\Release\Server.Properties.Resources.resources
+C:\Users\Efehan\Desktop\CS 432 Project\cs432Project\Server\Server\obj\Release\Server.csproj.GenerateResource.Cache
+C:\Users\Ege\Downloads\cs432Project-master\cs432Project-master\Server\Server\bin\Release\Server.exe.config
+C:\Users\Ege\Downloads\cs432Project-master\cs432Project-master\Server\Server\obj\Release\Server.exe
+C:\Users\Ege\Downloads\cs432Project-master\cs432Project-master\Server\Server\obj\Release\Server.pdb
+C:\Users\Ege\Downloads\cs432Project-master\cs432Project-master\Server\Server\bin\Release\Server.exe
+C:\Users\Ege\Downloads\cs432Project-master\cs432Project-master\Server\Server\bin\Release\Server.pdb
+C:\Users\Ege\Downloads\cs432Project-master\cs432Project-master\Server\Server\obj\Release\Server.csprojResolveAssemblyReference.cache
+C:\Users\Ege\Downloads\cs432Project-master\cs432Project-master\Server\Server\obj\Release\Server.Form1.resources
+C:\Users\Ege\Downloads\cs432Project-master\cs432Project-master\Server\Server\obj\Release\Server.Properties.Resources.resources
+C:\Users\Ege\Downloads\cs432Project-master\cs432Project-master\Server\Server\obj\Release\Server.csproj.GenerateResource.Cache
+C:\Users\asus\Desktop\berberoglu_berberoglu_oguzhan\Server\Server\bin\Release\Server.exe.config
+C:\Users\asus\Desktop\berberoglu_berberoglu_oguzhan\Server\Server\obj\Release\Server.exe
+C:\Users\asus\Desktop\berberoglu_berberoglu_oguzhan\Server\Server\obj\Release\Server.pdb
+C:\Users\asus\Desktop\berberoglu_berberoglu_oguzhan\Server\Server\bin\Release\Server.exe
+C:\Users\asus\Desktop\berberoglu_berberoglu_oguzhan\Server\Server\bin\Release\Server.pdb
+C:\Users\asus\Desktop\berberoglu_berberoglu_oguzhan\Server\Server\obj\Release\Server.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\berberoglu_berberoglu_oguzhan\Server\Server\obj\Release\Server.Form1.resources
+C:\Users\asus\Desktop\berberoglu_berberoglu_oguzhan\Server\Server\obj\Release\Server.Properties.Resources.resources
+C:\Users\asus\Desktop\berberoglu_berberoglu_oguzhan\Server\Server\obj\Release\Server.csproj.GenerateResource.Cache
+C:\Users\Ege\Documents\Visual Studio 2015\Projects\cs432Project\Server\Server\bin\Release\Server.exe.config
+C:\Users\Ege\Documents\Visual Studio 2015\Projects\cs432Project\Server\Server\obj\Release\Server.exe
+C:\Users\Ege\Documents\Visual Studio 2015\Projects\cs432Project\Server\Server\obj\Release\Server.pdb
+C:\Users\Ege\Documents\Visual Studio 2015\Projects\cs432Project\Server\Server\bin\Release\Server.exe
+C:\Users\Ege\Documents\Visual Studio 2015\Projects\cs432Project\Server\Server\bin\Release\Server.pdb
+C:\Users\Ege\Documents\Visual Studio 2015\Projects\cs432Project\Server\Server\obj\Release\Server.csprojResolveAssemblyReference.cache
+C:\Users\Ege\Documents\Visual Studio 2015\Projects\cs432Project\Server\Server\obj\Release\Server.Form1.resources
+C:\Users\Ege\Documents\Visual Studio 2015\Projects\cs432Project\Server\Server\obj\Release\Server.Properties.Resources.resources
+C:\Users\Ege\Documents\Visual Studio 2015\Projects\cs432Project\Server\Server\obj\Release\Server.csproj.GenerateResource.Cache
